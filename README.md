@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 ques
+Nessa atividde, realizei4 que
