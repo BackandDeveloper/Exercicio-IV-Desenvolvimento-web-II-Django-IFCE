@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 questõe e Py
+Nessa atividde, realizei4 questõe e P
