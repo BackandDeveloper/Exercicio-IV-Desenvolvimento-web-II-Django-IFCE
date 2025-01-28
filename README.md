@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 questõe e Python. ue foi pasad omo tivida
+Nessa atividde, realizei4 questõe e Python. ue foi pasad omo tivid
