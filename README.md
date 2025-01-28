@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 questõe e Python. ue foi pasad omo tividade do curso Técnic em Informáti
+Nessa atividde, realizei4 questõe e Python. ue foi pasad omo tividade do curso Técnic em Informát
