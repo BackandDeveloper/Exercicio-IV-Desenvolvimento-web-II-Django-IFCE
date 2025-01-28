@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 questõe e Python. ue foi pasa
+Nessa atividde, realizei4 questõe e Python. ue foi pas
