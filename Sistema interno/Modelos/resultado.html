@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado</title>
+</head>
+<body>
+    <h1>Resultado do Cálculo</h1>
+    {% if mensagem %}
+        <p style="color: red;">{{ mensagem }}</p>
+    {% else %}
+        <p>Você realizou a seguinte operação:</p>
+        <p>{{ explicacao }}</p>
+        <p><strong>Resultado:</strong> {{ resultado }}</p>
+    {% endif %}
+    <a href="{% url 'calcular_view' %}">Voltar</a>
+</body>
+</html>

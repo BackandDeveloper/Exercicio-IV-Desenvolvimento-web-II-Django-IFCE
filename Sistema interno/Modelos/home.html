@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade de web II</title>
+</head>
+    <body>
+     <h2>Bem-vindo, {{ nome_completo }}!</h2>
+      <p>Email cadastrado: {{ email }}<p>
+      <p>Tema preferido: {{ tema }}<p>
+     <p><a href="{% url 'logout' %}">Sair</a></p>
+    </body>
+<body>
+    <h1>Seja bem-vindo à Atividade</h1>
+    <p>Seja bem-vindo à página inicial da atividade de Desenvolvimento Web II.</p>
+    <button><a href="/login/">Login</a></button>
+    <nav>
+        <a href="/calcular/">Calculadora</a> |
+        <a href="/autor/">Sobre o Autor</a>
+    </nav>
+</body>
+</html>
