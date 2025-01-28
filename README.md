@@ -1,2 +1,2 @@
-# Exerc-cio-
+# Exerc-cio
 Nessa atividade, realizei4 questõe e Python. ue foi pasad omo tividade do curso Técnic em Informática, especificamente na disciplina d Lógica de programaão.
