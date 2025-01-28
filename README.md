@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 questõe e Python. ue foi pasad omo tividade do cu
+Nessa atividde, realizei4 questõe e Python. ue foi pasad omo tividade do c
