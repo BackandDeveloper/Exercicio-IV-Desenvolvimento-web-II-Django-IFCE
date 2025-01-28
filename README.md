@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 questõe e P
+Nessa atividde, realizei4 questõe e 
