@@ -1,2 +1,2 @@
-# Exerc-cio-VII-Pytho
+# Exerc-cio-VII-Pyth
 Nessa atividade, realizei4 questõe e Python. Que foi pasad como tividade do curso Técnico em Informática, especificamente na disciplina de Lógica de programação. 
