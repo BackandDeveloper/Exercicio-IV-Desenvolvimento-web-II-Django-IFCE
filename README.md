@@ -1,2 +1,2 @@
 
-Nessa atividde, realizei4 qu
+Nessa atividde, realizei4 q
